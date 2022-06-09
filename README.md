@@ -2,7 +2,7 @@
 
 Данный репозиторий содержит домашние задания по курсу от ВШЭ на Coursera ["Введение в машинное обучение"](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
 
-[Сертификат](https://github.com/AlekseiIvanov93/courses/blob/master/ML-from-Statistics-to-Neural-Networks/01.data-collection-and-analysis-in-python/certificate.pdf)
+[Сертификат](https://github.com/AlekseiIvanov93/Introduction-to-Machine-Learning/blob/main/certificate.pdf)
 
 Курс состоит из 7 недель:
 1. Знакомство с анализом данных и машинным обучением. Логические методы классификации
